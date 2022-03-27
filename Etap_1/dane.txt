@@ -1,0 +1,19 @@
+Autor: Mateusz Sikora
+E-mail: sikoramateusz1999@gmail.com
+Grupa: 1ID21B
+
+
+Tematy projektu:
+27. Wizualizacja zawartości składu lub bazy danych
+23. Konwersja danych pomiędzy różnymi modelami
+
+Technologie: Python/SQL
+Potencjalne technologie: HTML/XML/CSV
+
+Cele:
+1. Napisanie programu w sposób obiektowy
+2. Stworzenie interfejsu graficznego do programu
+3. Zwizualizowanie zawartości bazy danych
+4. Konwersja skryptów SQL na HTML/XML/CSV
+
+Praca inżynierska: Sieci samoorganizujące się i ich implementacja w języku python
