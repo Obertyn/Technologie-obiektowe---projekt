@@ -7,5 +7,5 @@ Zrealizowano:
 
 
 Plany dotyczące następnego etapu:
--znalezienie i zapisanie kolumn w tabeli i znalezienie tych, które łączą ze sobą tabele
+-znalezienie i zapisanie kolumn znajdujących się w tabelach i znalezienie tych kolumn, które łączą ze sobą tabele
 -dalsza praca z biblioteką networkx
