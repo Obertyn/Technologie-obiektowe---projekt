@@ -1,0 +1,11 @@
+Zrealizowano:
+-program tworzy nowy plik tekstowy, w którym zapisano zawartość skryptu
+-program liczy ilość tabel
+-program zapisuje nazwy wszystkich tabel
+-zaimportowano biblioteke networkx, która pozwoli zwizualizować baze
+-program wizualizuje tabele, nie tworząc jeszcze żadnych połączeń pomiędzy nimi
+
+
+Plany dotyczące następnego etapu:
+-znalezienie i zapisanie kolumn w tabeli i znalezienie tych, które łączą ze sobą tabele
+-dalsza praca z biblioteką networkx
